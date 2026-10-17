@@ -1,0 +1,314 @@
+{
+  "brand": "Kopwang",
+  "version": 1,
+  "generator": "scripts/build_brand_assets.py",
+  "font": {
+    "family": "Noto Sans Thai",
+    "sha256": "5a1c559bb539583c8a1fd99d1c5b9491e5e14478c9cd2bd0970d5c3096cc9ef8",
+    "license": "brand/fonts/OFL.txt"
+  },
+  "palette": {
+    "ink": "#14161C",
+    "amber": "#FFB020",
+    "cream": "#F5EFE2",
+    "mint": "#25C281"
+  },
+  "safe_zones": {
+    "profile_circle_diameter": 0.84,
+    "facebook_cover_mobile_width": 640,
+    "facebook_cover_mobile_height": 312,
+    "facebook_cover_profile_overlap": {
+      "x": 0,
+      "y": 150,
+      "width": 190,
+      "height": 165
+    },
+    "shopee_margin": 80,
+    "shopee_banner_margin": 56,
+    "tiktok_cover_side_padding": 140,
+    "tiktok_cover_top_padding": 140,
+    "tiktok_cover_bottom_padding": 320
+  },
+  "assets": [
+    {
+      "id": "profile-master",
+      "channel": "all",
+      "role": "profile",
+      "path": "brand/social/profile/kopwang-profile-2048.png",
+      "width": 2048,
+      "height": 2048,
+      "purpose": "ต้นฉบับอวตาร ใช้ทำไฟล์ทุกช่องทางและงานพิมพ์/สติกเกอร์",
+      "max_bytes": 2000000,
+      "actual_width": 2048,
+      "actual_height": 2048,
+      "bytes": 56781,
+      "sha256": "4570924670b3f4fa97846238186e77a746f7772f0e3c7d31eb7d70bc2fcaf041",
+      "content_bbox": [
+        459,
+        324,
+        1589,
+        1724
+      ]
+    },
+    {
+      "id": "profile-facebook",
+      "channel": "facebook",
+      "role": "profile",
+      "path": "brand/social/profile/facebook-profile-1024.png",
+      "width": 1024,
+      "height": 1024,
+      "purpose": "รูปโปรไฟล์เพจ Facebook (แสดงเป็นวงกลม)",
+      "upload_to": "Facebook Page → รูปโปรไฟล์",
+      "max_bytes": 2000000,
+      "actual_width": 1024,
+      "actual_height": 1024,
+      "bytes": 29917,
+      "sha256": "da3240ec8c84c08d907bd147ce3b0406bf09dcf4b4f89438d8f3802f1a586a76",
+      "content_bbox": [
+        229,
+        161,
+        795,
+        863
+      ]
+    },
+    {
+      "id": "profile-tiktok",
+      "channel": "tiktok",
+      "role": "profile",
+      "path": "brand/social/profile/tiktok-profile-200.png",
+      "width": 200,
+      "height": 200,
+      "purpose": "รูปโปรไฟล์ TikTok (แสดงเป็นวงกลม)",
+      "upload_to": "TikTok → แก้ไขโปรไฟล์ → รูปภาพ",
+      "max_bytes": 2000000,
+      "actual_width": 200,
+      "actual_height": 200,
+      "bytes": 5937,
+      "sha256": "6f871938b6f3607858311b55e00bc66426e55a90eb63925941871083be4e7bcf",
+      "content_bbox": [
+        44,
+        30,
+        156,
+        170
+      ]
+    },
+    {
+      "id": "profile-shopee",
+      "channel": "shopee",
+      "role": "profile",
+      "path": "brand/social/profile/shopee-shop-logo-500.png",
+      "width": 500,
+      "height": 500,
+      "purpose": "โลโก้ร้าน Shopee (สี่เหลี่ยมจัตุรัส แสดงเป็นวงกลม/สี่เหลี่ยมมุมมน)",
+      "upload_to": "Shopee Seller Centre → ข้อมูลร้านค้า → โลโก้ร้าน",
+      "max_bytes": 2000000,
+      "actual_width": 500,
+      "actual_height": 500,
+      "bytes": 15407,
+      "sha256": "ea07187b14bd908604cfa3407afb1d3ad76c3dc3a2f65cda2d886521f5ca6b24",
+      "content_bbox": [
+        111,
+        78,
+        389,
+        422
+      ]
+    },
+    {
+      "id": "cover-facebook",
+      "channel": "facebook",
+      "role": "cover",
+      "path": "brand/social/cover/facebook-cover-851x315.png",
+      "width": 851,
+      "height": 315,
+      "purpose": "ภาพหน้าปกเพจ Facebook (เดสก์ท็อป) — เนื้อหาอยู่ในโซนกลาง 640×312",
+      "upload_to": "Facebook Page → ภาพหน้าปก",
+      "max_bytes": 300000,
+      "notes": "Facebook แนะนำไฟล์กว้าง 851×315 และโหลดเร็วที่สุดเมื่อต่ำกว่า 100 KB",
+      "actual_width": 851,
+      "actual_height": 315,
+      "bytes": 38978,
+      "sha256": "99b1df36a7edbe127578670e2ec027cd02a231c03b278884a06d8fad5925b70b",
+      "content_bbox": [
+        199,
+        77,
+        741,
+        283
+      ]
+    },
+    {
+      "id": "cover-shopee",
+      "channel": "shopee",
+      "role": "cover",
+      "path": "brand/social/cover/shopee-cover-1200x675.png",
+      "width": 1200,
+      "height": 675,
+      "purpose": "ภาพหน้าปกร้าน Shopee (Shop Cover) 16:9",
+      "upload_to": "Shopee Seller Centre → ตกแต่งร้าน → Shop Cover",
+      "max_bytes": 2000000,
+      "actual_width": 1200,
+      "actual_height": 675,
+      "bytes": 96747,
+      "sha256": "317e6b98509c3c136fe437e4a8bae78cfc7bafb85c4f845013ab697d5ab06815",
+      "content_bbox": [
+        95,
+        81,
+        1106,
+        595
+      ]
+    },
+    {
+      "id": "banner-shopee",
+      "channel": "shopee",
+      "role": "banner",
+      "path": "brand/social/banner/shopee-shop-banner-1200x300.png",
+      "width": 1200,
+      "height": 300,
+      "purpose": "แบนเนอร์ร้าน Shopee (Shop Banner) แถบแนวนอน",
+      "upload_to": "Shopee Seller Centre → ตกแต่งร้าน → Shop Banner",
+      "max_bytes": 2000000,
+      "actual_width": 1200,
+      "actual_height": 300,
+      "bytes": 36919,
+      "sha256": "cea01fc0378432cdc4bdb423025e44d595ebc9e949b8328d5a0a0043523fe7e2",
+      "content_bbox": [
+        80,
+        72,
+        1142,
+        230
+      ]
+    },
+    {
+      "id": "cover-tiktok",
+      "channel": "tiktok",
+      "role": "cover",
+      "path": "brand/social/cover/tiktok-video-cover-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "purpose": "ปกคลิป TikTok แนวตั้ง — TikTok ไม่มีภาพหน้าปกโปรไฟล์ จึงใช้ปกคลิปเป็นภาพประจำช่อง",
+      "upload_to": "TikTok → อัปโหลดคลิป → เลือกปก → อัปโหลดภาพ",
+      "max_bytes": 2000000,
+      "actual_width": 1080,
+      "actual_height": 1920,
+      "bytes": 94059,
+      "sha256": "6297cfca2e6ea07220121d92a9bcd030f2fd1d57a88a4da65cc8b0378767a3bf",
+      "content_bbox": [
+        174,
+        321,
+        903,
+        1404
+      ]
+    },
+    {
+      "id": "preview-facebook-safe",
+      "channel": "facebook",
+      "role": "preview",
+      "path": "brand/social/preview/facebook-cover-safe-zone.png",
+      "width": 851,
+      "height": 315,
+      "purpose": "ไฟล์ตรวจงาน (ไม่ใช้อัปโหลด) แสดงกรอบโซนปลอดภัยและตำแหน่งรูปโปรไฟล์ที่ทับหน้าปก",
+      "max_bytes": 300000,
+      "actual_width": 851,
+      "actual_height": 315,
+      "bytes": 42474,
+      "sha256": "80924fb921b594a4d470274e0398127b119f9a4fdb512a0e0eabc2705e4ae7fd",
+      "content_bbox": null
+    },
+    {
+      "id": "preview-profile-crops",
+      "channel": "all",
+      "role": "preview",
+      "path": "brand/social/preview/profile-circle-crops.png",
+      "width": 1600,
+      "height": 760,
+      "purpose": "ไฟล์ตรวจงาน (ไม่ใช้อัปโหลด) เทียบอวตารเมื่อถูกครอปเป็นวงกลมบนพื้นอ่อน/พื้นเข้ม",
+      "max_bytes": 1000000,
+      "actual_width": 1600,
+      "actual_height": 760,
+      "bytes": 83246,
+      "sha256": "11ed63c0da4dc8c16a1eddab064ba7e22969a7b87eca5a99a74855c825fd08a2",
+      "content_bbox": null
+    },
+    {
+      "id": "contact-sheet",
+      "channel": "all",
+      "role": "preview",
+      "path": "brand/social/preview/contact-sheet.png",
+      "width": 1600,
+      "height": 1300,
+      "purpose": "ไฟล์ตรวจงาน รวมภาพทุกชิ้นพร้อมขนาดจริงไว้ดูเทียบกันในภาพเดียว",
+      "max_bytes": 1500000,
+      "actual_width": 1600,
+      "actual_height": 1300,
+      "bytes": 203517,
+      "sha256": "96589bc33fee084f9b357bc763a244734740117540946809f92500ce79f5ff4a",
+      "content_bbox": null
+    }
+  ],
+  "svg_masters": [
+    {
+      "id": "cover-facebook",
+      "path": "brand/social/cover/facebook-cover-851x315.svg",
+      "png": "brand/social/cover/facebook-cover-851x315.png",
+      "width": 851,
+      "height": 315,
+      "bytes": 3990,
+      "sha256": "5882987a998fd16df4ae8bb87080b01e1713323df69c6bc2ad67d8a47ceae85c",
+      "text_nodes": 4,
+      "font": {
+        "family": "Noto Sans Thai",
+        "file": "brand/fonts/NotoSansThai.ttf",
+        "embedded": false,
+        "reference": "../../fonts/NotoSansThai.ttf"
+      }
+    },
+    {
+      "id": "cover-shopee",
+      "path": "brand/social/cover/shopee-cover-1200x675.svg",
+      "png": "brand/social/cover/shopee-cover-1200x675.png",
+      "width": 1200,
+      "height": 675,
+      "bytes": 5091,
+      "sha256": "40ee0940472ef1f8c6b0ec82d77f23c054c8251d510109a10be2f9545a0a1325",
+      "text_nodes": 7,
+      "font": {
+        "family": "Noto Sans Thai",
+        "file": "brand/fonts/NotoSansThai.ttf",
+        "embedded": false,
+        "reference": "../../fonts/NotoSansThai.ttf"
+      }
+    },
+    {
+      "id": "banner-shopee",
+      "path": "brand/social/banner/shopee-shop-banner-1200x300.svg",
+      "png": "brand/social/banner/shopee-shop-banner-1200x300.png",
+      "width": 1200,
+      "height": 300,
+      "bytes": 2116,
+      "sha256": "2a50f1cb99ce26734c80dab54f3aa7ef62baa925e328dd87ee4ea28e937b5408",
+      "text_nodes": 4,
+      "font": {
+        "family": "Noto Sans Thai",
+        "file": "brand/fonts/NotoSansThai.ttf",
+        "embedded": false,
+        "reference": "../../fonts/NotoSansThai.ttf"
+      }
+    },
+    {
+      "id": "cover-tiktok",
+      "path": "brand/social/cover/tiktok-video-cover-1080x1920.svg",
+      "png": "brand/social/cover/tiktok-video-cover-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 2071,
+      "sha256": "3305ef35dc01709172f158cb0ccf7cc8ccb3fa4117b6078afae2c68bd04f4cc6",
+      "text_nodes": 5,
+      "font": {
+        "family": "Noto Sans Thai",
+        "file": "brand/fonts/NotoSansThai.ttf",
+        "embedded": false,
+        "reference": "../../fonts/NotoSansThai.ttf"
+      }
+    }
+  ],
+  "svg_generator": "scripts/build_brand_svg.py"
+}

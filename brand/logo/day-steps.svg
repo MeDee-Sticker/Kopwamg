@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Kopwang Day Steps">
+  <rect width="1024" height="1024" rx="232" fill="#14161C"/>
+  <g fill="#FFB020">
+    <rect x="272" y="532" width="128" height="200" rx="64"/>
+    <rect x="448" y="412" width="128" height="320" rx="64"/>
+    <rect x="624" y="292" width="128" height="440" rx="64"/>
+  </g>
+  <circle cx="688" cy="244" r="46" fill="#25C281"/>
+</svg>

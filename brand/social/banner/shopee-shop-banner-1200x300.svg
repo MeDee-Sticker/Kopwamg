@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Kopwang — Shopee Shop Banner 1200×300" xml:lang="th">
+  <title>Kopwang — Shopee Shop Banner 1200×300</title>
+  <desc>แบนเนอร์ร้าน Shopee แถบแนวนอน ใช้สัญลักษณ์ ข้อความ และปุ่มติดต่อชุดเดียวกับหน้าปก</desc>
+  <style>
+    @font-face {
+      font-family: "Noto Sans Thai";
+      font-style: normal;
+      font-weight: 100 900;
+      src: url("../../fonts/NotoSansThai.ttf") format("truetype");
+    }
+  </style>
+  <rect id="background" width="1200" height="300" fill="#14161C"/>
+  <g id="k-mark" transform="translate(15.174 25.174) scale(0.243802)" fill="none" stroke="#FFB020" stroke-width="116" stroke-linecap="round" stroke-linejoin="round"><path d="M328 270V754M328 512L696 270M328 512L696 754"/></g>
+  <rect id="divider" x="208" y="72" width="2" height="156" rx="1" fill="#535353"/>
+  <g id="headline">
+    <text id="wordmark" x="240" y="136" font-family="Noto Sans Thai, sans-serif" font-size="44" font-weight="700" fill="#F5EFE2" text-anchor="start">Kopwang</text>
+    <text id="banner-line" x="240" y="176" font-family="Noto Sans Thai, sans-serif" font-size="18" font-weight="400" fill="#B6B2AB" text-anchor="start">เริ่มวันนี้ วันละ 1 ชั่วโมง</text>
+  </g>
+  <rect id="offer-mark" x="560" y="143" width="7" height="7" rx="1" fill="#FFB020"/>
+  <text id="offer" x="584" y="157" font-family="Noto Sans Thai, sans-serif" font-size="20" font-weight="500" fill="#D1CCC2" text-anchor="start">E-Book + เทมเพลต 30 วัน</text>
+  <g id="cta">
+    <rect x="949.469" y="126" width="190.531" height="48" rx="24" fill="none" stroke="#FFB020" stroke-width="1.5"/>
+    <text id="cta-label" x="965.469" y="158" font-family="Noto Sans Thai, sans-serif" font-size="17" font-weight="500" fill="#FFB020" text-anchor="start">ทัก Line: @kopwang</text>
+  </g>
+</svg>

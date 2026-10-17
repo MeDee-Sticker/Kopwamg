@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Kopwang K-Bar">
+  <rect width="1024" height="1024" rx="232" fill="#14161C"/>
+  <g stroke="#FFB020" stroke-width="116" stroke-linecap="round" fill="none">
+    <path d="M328 270 V754"/>
+    <path d="M328 512 L696 270"/>
+    <path d="M328 512 L696 754"/>
+  </g>
+</svg>

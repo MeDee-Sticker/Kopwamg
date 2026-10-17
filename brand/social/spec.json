@@ -1,0 +1,178 @@
+{
+  "brand": "Kopwang",
+  "version": 1,
+  "updated": "2026-10-17",
+  "palette": {
+    "ink": "#14161C",
+    "amber": "#FFB020",
+    "cream": "#F5EFE2",
+    "mint": "#25C281"
+  },
+  "font": {
+    "family": "Noto Sans Thai",
+    "file": "brand/fonts/NotoSansThai.ttf",
+    "license": "brand/fonts/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosansthai",
+    "weights": { "regular": 400, "medium": 500, "semibold": 600, "bold": 700 }
+  },
+  "copy": {
+    "wordmark": "Kopwang",
+    "eyebrow": "KOPWANG",
+    "tagline": "ระบบสร้างรายได้ใน 30 วัน",
+    "promise": "วันละ 1 ชั่วโมง · ทำตามได้ทีละวัน",
+    "offer": "E-Book + เทมเพลต 30 วัน",
+    "cta": "ทัก Line: @kopwang",
+    "facebook_name": "Kopwang | ระบบสร้างรายได้ใน 30 วัน",
+    "shop_name": "Kopwang Official Shop",
+    "shop_eyebrow": "OFFICIAL SHOP",
+    "shop_cover_line": "ระบบวันละ 1 ชม. ให้ได้ผลลัพธ์จริง",
+    "shop_bullets": [
+      "E-Book + เทมเพลต 30 วัน",
+      "สคริปต์ตอบแชท 12 สถานการณ์",
+      "คืนเงินภายใน 7 วัน"
+    ],
+    "shop_banner_line": "เริ่มวันนี้ วันละ 1 ชั่วโมง",
+    "tiktok_line": "วันละ 1 คลิป พาไปทำระบบรายได้ 30 วัน",
+    "tiktok_line_1": "ระบบสร้างรายได้",
+    "tiktok_line_2": "ใน 30 วัน",
+    "tiktok_footer": "Kopwang · Line @kopwang"
+  },
+  "rules": {
+    "profile_symbol_only": true,
+    "banned_words": ["รวย", "รวยเร็ว", "การันตีรายได้", "รับประกันรายได้", "รายได้แน่นอน"],
+    "forbidden_motifs": ["ธนบัตร", "เหรียญ", "กราฟกำไร", "ลูกศรพุ่งขึ้น"],
+    "mint_max_share": 0.1,
+    "min_text_contrast": 4.5
+  },
+  "safe_zones": {
+    "profile_circle_diameter": 0.84,
+    "facebook_cover_mobile_width": 640,
+    "facebook_cover_mobile_height": 312,
+    "facebook_cover_profile_overlap": { "x": 0, "y": 150, "width": 190, "height": 165 },
+    "shopee_margin": 80,
+    "shopee_banner_margin": 56,
+    "tiktok_cover_side_padding": 140,
+    "tiktok_cover_top_padding": 140,
+    "tiktok_cover_bottom_padding": 320
+  },
+  "assets": [
+    {
+      "id": "profile-master",
+      "channel": "all",
+      "role": "profile",
+      "path": "brand/social/profile/kopwang-profile-2048.png",
+      "width": 2048,
+      "height": 2048,
+      "purpose": "ต้นฉบับอวตาร ใช้ทำไฟล์ทุกช่องทางและงานพิมพ์/สติกเกอร์",
+      "max_bytes": 2000000
+    },
+    {
+      "id": "profile-facebook",
+      "channel": "facebook",
+      "role": "profile",
+      "path": "brand/social/profile/facebook-profile-1024.png",
+      "width": 1024,
+      "height": 1024,
+      "purpose": "รูปโปรไฟล์เพจ Facebook (แสดงเป็นวงกลม)",
+      "upload_to": "Facebook Page → รูปโปรไฟล์",
+      "max_bytes": 2000000
+    },
+    {
+      "id": "profile-tiktok",
+      "channel": "tiktok",
+      "role": "profile",
+      "path": "brand/social/profile/tiktok-profile-200.png",
+      "width": 200,
+      "height": 200,
+      "purpose": "รูปโปรไฟล์ TikTok (แสดงเป็นวงกลม)",
+      "upload_to": "TikTok → แก้ไขโปรไฟล์ → รูปภาพ",
+      "max_bytes": 2000000
+    },
+    {
+      "id": "profile-shopee",
+      "channel": "shopee",
+      "role": "profile",
+      "path": "brand/social/profile/shopee-shop-logo-500.png",
+      "width": 500,
+      "height": 500,
+      "purpose": "โลโก้ร้าน Shopee (สี่เหลี่ยมจัตุรัส แสดงเป็นวงกลม/สี่เหลี่ยมมุมมน)",
+      "upload_to": "Shopee Seller Centre → ข้อมูลร้านค้า → โลโก้ร้าน",
+      "max_bytes": 2000000
+    },
+    {
+      "id": "cover-facebook",
+      "channel": "facebook",
+      "role": "cover",
+      "path": "brand/social/cover/facebook-cover-851x315.png",
+      "width": 851,
+      "height": 315,
+      "purpose": "ภาพหน้าปกเพจ Facebook (เดสก์ท็อป) — เนื้อหาอยู่ในโซนกลาง 640×312",
+      "upload_to": "Facebook Page → ภาพหน้าปก",
+      "max_bytes": 300000,
+      "notes": "Facebook แนะนำไฟล์กว้าง 851×315 และโหลดเร็วที่สุดเมื่อต่ำกว่า 100 KB"
+    },
+    {
+      "id": "cover-shopee",
+      "channel": "shopee",
+      "role": "cover",
+      "path": "brand/social/cover/shopee-cover-1200x675.png",
+      "width": 1200,
+      "height": 675,
+      "purpose": "ภาพหน้าปกร้าน Shopee (Shop Cover) 16:9",
+      "upload_to": "Shopee Seller Centre → ตกแต่งร้าน → Shop Cover",
+      "max_bytes": 2000000
+    },
+    {
+      "id": "banner-shopee",
+      "channel": "shopee",
+      "role": "banner",
+      "path": "brand/social/banner/shopee-shop-banner-1200x300.png",
+      "width": 1200,
+      "height": 300,
+      "purpose": "แบนเนอร์ร้าน Shopee (Shop Banner) แถบแนวนอน",
+      "upload_to": "Shopee Seller Centre → ตกแต่งร้าน → Shop Banner",
+      "max_bytes": 2000000
+    },
+    {
+      "id": "cover-tiktok",
+      "channel": "tiktok",
+      "role": "cover",
+      "path": "brand/social/cover/tiktok-video-cover-1080x1920.png",
+      "width": 1080,
+      "height": 1920,
+      "purpose": "ปกคลิป TikTok แนวตั้ง — TikTok ไม่มีภาพหน้าปกโปรไฟล์ จึงใช้ปกคลิปเป็นภาพประจำช่อง",
+      "upload_to": "TikTok → อัปโหลดคลิป → เลือกปก → อัปโหลดภาพ",
+      "max_bytes": 2000000
+    },
+    {
+      "id": "preview-facebook-safe",
+      "channel": "facebook",
+      "role": "preview",
+      "path": "brand/social/preview/facebook-cover-safe-zone.png",
+      "width": 851,
+      "height": 315,
+      "purpose": "ไฟล์ตรวจงาน (ไม่ใช้อัปโหลด) แสดงกรอบโซนปลอดภัยและตำแหน่งรูปโปรไฟล์ที่ทับหน้าปก",
+      "max_bytes": 300000
+    },
+    {
+      "id": "preview-profile-crops",
+      "channel": "all",
+      "role": "preview",
+      "path": "brand/social/preview/profile-circle-crops.png",
+      "width": 1600,
+      "height": 760,
+      "purpose": "ไฟล์ตรวจงาน (ไม่ใช้อัปโหลด) เทียบอวตารเมื่อถูกครอปเป็นวงกลมบนพื้นอ่อน/พื้นเข้ม",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "contact-sheet",
+      "channel": "all",
+      "role": "preview",
+      "path": "brand/social/preview/contact-sheet.png",
+      "width": 1600,
+      "height": 1300,
+      "purpose": "ไฟล์ตรวจงาน รวมภาพทุกชิ้นพร้อมขนาดจริงไว้ดูเทียบกันในภาพเดียว",
+      "max_bytes": 1500000
+    }
+  ]
+}

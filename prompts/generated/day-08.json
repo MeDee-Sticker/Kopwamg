@@ -1,0 +1,407 @@
+{
+  "day": 8,
+  "date": "2026-10-23",
+  "weekday": "ศุกร์",
+  "phase": "W2",
+  "phase_goal": "คอนเทนต์ที่คนหยุดดู — hook, คลิปสั้น, คลิปที่ขายได้",
+  "theme": "3 วินาทีแรกตัดสินทุกอย่าง",
+  "hook": "คอนเทนต์ไม่ดีไม่ใช่ปัญหาใหญ่ แต่ 3 วิแรกนี่แหละคือปัญหา",
+  "cta": "กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้",
+  "platforms": {
+    "facebook": {
+      "label": "Facebook Page / Reels",
+      "plan_title": "5 สูตร 3 วินาทีแรก ที่ทำให้คนหยุดดู",
+      "format": "ให้ความรู้",
+      "post_time": "12:00",
+      "caption": "5 สูตร 3 วินาทีแรก ที่ทำให้คนหยุดดู\n\nคนดูตัดสินใจใน 3 วินาทีว่าจะอยู่ต่อหรือไม่ ไม่ใช่ตัวคอนเทนต์ทั้งคลิป\n\n1. เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป\n2. ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย\n3. เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด\n\n💡 คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า\n\n👉 กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้\n\n#Kopwang #ระบบสร้างรายได้ใน30วัน #รายได้เสริม #ทำเงินออนไลน์ #คอนเทนต์ขายของ #ทำคลิปสั้น #DAY8\n\n— Kopwang | ระบบสร้างรายได้ใน 30 วัน",
+      "script_prompt": "บทบาท: คุณเป็นนักเขียนสคริปต์คลิปสั้นภาษาไทยให้แบรนด์ Kopwang\nสินค้า: E-Book Kopwang : ระบบสร้างรายได้ใน 30 วัน ราคา 390 บาท (ปกติ 890 บาท)\nกลุ่มเป้าหมาย: มนุษย์เงินเดือน ฟรีแลนซ์ แม่บ้าน พ่อค้าออนไลน์มือใหม่ อายุ 25-45\nโทนเสียง: พูดตรง ไม่โอ้อวด · เปิดตัวเลขจริงของตัวเองเสมอ · สอนก่อน ขายทีหลัง (สัดส่วน 7:3) · ห้ามสัญญาผลลัพธ์เร็วเกินจริง\nแพลตฟอร์ม: Facebook Page / Reels · ความยาว 15-60 วินาที · อัตราส่วน 1:1, 4:5, 16:9\nภารกิจ: เขียนสคริปต์คลิปวันที่ 8 หัวข้อ \"3 วินาทีแรกตัดสินทุกอย่าง\"\nรูปแบบคลิปที่วางไว้: ให้ความรู้\n\nข้อมูลที่ต้องใช้ (ห้ามคิดข้อเท็จจริงใหม่หรืออ้างตัวเลขที่ไม่มีในนี้):\n- ฮุก: คอนเทนต์ไม่ดีไม่ใช่ปัญหาใหญ่ แต่ 3 วิแรกนี่แหละคือปัญหา\n- ประเด็น 1: เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป\n- ประเด็น 2: ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย\n- ประเด็น 3: เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด\n- หลักฐาน/ความน่าเชื่อถือ: คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า\n- CTA: กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้\n- รูปแบบโพสต์ Facebook: ให้ความรู้\n- พาดหัวที่วางไว้: 5 สูตร 3 วินาทีแรก ที่ทำให้คนหยุดดู\n- ประโยคเปิดที่วางไว้: คนดูตัดสินใจใน 3 วินาทีว่าจะอยู่ต่อหรือไม่ ไม่ใช่ตัวคอนเทนต์ทั้งคลิป\n\nโครงเรื่องที่ต้องมีครบทุกช่วง (ปรับถ้อยคำได้ ห้ามตัดช่วงทิ้ง):\n- 0-3s | ฮุกให้หยุดดู: คอนเทนต์ไม่ดีไม่ใช่ปัญหาใหญ่ แต่ 3 วิแรกนี่แหละคือปัญหา\n- 3-20s | ให้ความรู้ตามประเด็น: เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป | ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย\n- 20-35s | ขยายประเด็นที่เหลือ: เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด\n- 35-45s | สาธิตการใช้สินค้า: เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเทนต์ 30 วัน แล้วชี้ช่องที่ต้องกรอก · เปิดสคริปต์ตอบแชท 12 สถานการณ์ 1 หน้า · เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ\n- 45-52s | หลักฐานหรือตัวเลขจริง: คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า\n- 52-60s | ปักสินค้า/คอมเมนต์ + CTA: กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้\n\nช่วงสาธิตสินค้า: ให้เห็น เปิดสารบัญให้เห็นครบทุกบท ขึ้นไปถึง เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ · วิธีถ่าย: อัดหน้าจอ (screen record) ด้วยมือถือหรือคอมพิวเตอร์ หรือถ่ายมือถือถือไฟล์จริง/สมุดงานพิมพ์\nช่วงปักตะกร้า/ลิงก์สินค้า: ติดป้ายสินค้า (Product tag) ในโพสต์หรือรีลส์จาก Facebook Shop แล้วปักหมุดคอมเมนต์ลิงก์ Line OA\n  ข้อความบนจอ: กดปุ่มสินค้า หรือคอมเมนต์คำว่า 30 · คำพูด: กดปุ่มสินค้าใต้โพสต์ หรือคอมเมนต์คำว่า 30 เดี๋ยวส่งรายละเอียดให้\n  ทางสำรอง: ถ้าติดป้ายสินค้าไม่ได้: ปักหมุดคอมเมนต์ลิงก์ Line @kopwang และพูดว่า \"ทักไลน์ในคอมเมนต์ปักหมุด\"\n\nข้อห้าม:\n- ห้ามใช้คำเหล่านี้ทุกกรณี: รวย, รวยเร็ว, การันตีรายได้, รับประกันรายได้, รายได้แน่นอน, รายได้ guaranteed, ผลลัพธ์ 100%\n- ห้ามในงานภาพ: ภาพธนบัตรหรือกองเงิน, เหรียญทองหรือทองคำแท่ง, กราฟกำไรที่อ้างผลตอบแทน, ยอดเงินในแอปธนาคารของผู้อื่น\n- ถ้าคลิปมีลิงก์สินค้า/ตะกร้า ให้บอกตรง ๆ ว่าเป็นลิงก์สินค้าของร้าน และไม่สัญญาผลลัพธ์จากการซื้อ\n- ข้อความรีวิวหรือภาพลูกค้าใช้ได้หลังขออนุญาตแล้วเท่านั้น และต้องปิดข้อมูลส่วนตัว\n\nข้อกำหนดผลลัพธ์:\n- ภาษาไทยทั้งหมด อ่านออกเสียงได้จริงในเวลาที่กำหนด\n- ข้อความบนจอสั้น ไม่เกิน 2 บรรทัด ใช้ฟอนต์ Noto Sans Thai\n- ความยาวแคปชันไม่เกิน 2200 ตัวอักษร และมีแฮชแท็กจากแคมเปญ\n- ตอบเป็น JSON เท่านั้น ตามโครงนี้:\n{\n  \"voice_over\": \"สคริปต์พูดทั้งคลิปเป็นภาษาไทย\",\n  \"onscreen_text\": [\n    {\"time\": \"0-3\", \"text\": \"ข้อความสั้นบนจอ ไม่เกิน 2 บรรทัด\"}\n  ],\n  \"shot_list\": [\n    {\"time\": \"0-3\", \"shot\": \"ชื่อช็อต\", \"detail\": \"สิ่งที่กล้องเห็น\"}\n  ],\n  \"caption\": \"แคปชันสำหรับโพสต์\",\n  \"hashtags\": [\"#Kopwang\"]\n}",
+      "image_prompts": [
+        {
+          "shot": "01-hook",
+          "purpose": "ฮุกให้หยุดดู",
+          "aspect": "1:1",
+          "prompt": "1:1 photorealistic lifestyle image for a Thai online-business brand: Thai creator in their 30s sitting at a small desk at home, talking to a phone on a tripod, warm practical light, dark charcoal room. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "คอนเทนต์ไม่ดีไม่ใช่ปัญหาใหญ่ แต่ 3 วิแรกนี่แหละคือปัญหา"
+        },
+        {
+          "shot": "02-teach-1",
+          "purpose": "ให้ความรู้ตามประเด็น",
+          "aspect": "1:1",
+          "prompt": "1:1 photorealistic lifestyle image for a Thai online-business brand: top-down flat lay of an open notebook, pen and smartphone on a dark desk, clean checklist rows visible, generous empty space. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป | ห้ามเกริ่นยาว เลื่"
+        },
+        {
+          "shot": "03-teach-2",
+          "purpose": "ขยายประเด็นที่เหลือ",
+          "aspect": "1:1",
+          "prompt": "1:1 photorealistic lifestyle image for a Thai online-business brand: top-down flat lay of an open notebook, pen and smartphone on a dark desk, clean checklist rows visible, generous empty space. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด"
+        },
+        {
+          "shot": "04-demo",
+          "purpose": "สาธิตการใช้สินค้า",
+          "aspect": "1:1",
+          "prompt": "1:1 photorealistic lifestyle image for a Thai online-business brand: over-the-shoulder view of a laptop screen showing an e-book table of contents, a hand pointing at one section, warm screen glow on a dark desk. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเท"
+        },
+        {
+          "shot": "05-proof",
+          "purpose": "หลักฐานหรือตัวเลขจริง",
+          "aspect": "1:1",
+          "prompt": "1:1 photorealistic lifestyle image for a Thai online-business brand: smartphone standing on a dark desk showing a clean chat conversation bubble with all personal data blurred, amber accent light. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า"
+        }
+      ],
+      "video": {
+        "aspect": "1:1",
+        "seconds": "15-60",
+        "prompt": "Short-form 1:1 social video for a Thai online-business brand, about 15-60 seconds, 6 shots. Theme: 3 วินาทีแรกตัดสินทุกอย่าง.\nShot list:\n  1. 0-3s — Thai creator in their 30s sitting at a small desk at home, talking to a phone on a tripod, warm practical light, dark charcoal room.\n  2. 3-20s — top-down flat lay of an open notebook, pen and smartphone on a dark desk, clean checklist rows visible, generous empty space.\n  3. 20-35s — top-down flat lay of an open notebook, pen and smartphone on a dark desk, clean checklist rows visible, generous empty space.\n  4. 35-45s — over-the-shoulder view of a laptop screen showing an e-book table of contents, a hand pointing at one section, warm screen glow on a dark desk.\n  5. 45-52s — smartphone standing on a dark desk showing a clean chat conversation bubble with all personal data blurred, amber accent light.\n  6. 52-60s — smartphone standing on a dark desk showing an online shop product page with a glowing shopping cart icon, amber accent light, clean negative space.\nProduct demo: show E-Book Kopwang : ระบบสร้างรายได้ใน 30 วัน on screen (อัดหน้าจอ (screen record) ด้วยมือถือหรือคอมพิวเตอร์ หรือถ่ายมือถือถือไฟล์จริง/สมุดงานพิมพ์).\nCart pin: ติดป้ายสินค้า (Product tag) ในโพสต์หรือรีลส์จาก Facebook Shop แล้วปักหมุดคอมเมนต์ลิงก์ Line OA — appears ติดป้ายตั้งแต่ตอนโพสต์ และปักหมุดคอมเมนต์ทันทีหลังโพสต์; on-screen cue 'กดปุ่มสินค้า หรือคอมเมนต์คำว่า 30' is added in editing, not rendered by the model.\nCamera: handheld phone with a subtle push-in on the demo shot and quick cuts on the beat. Lighting: warm practical light, dark charcoal background, amber accent. Audio: clear Thai voice-over, subtle neutral background bed, no copyrighted music.\nLeave clean space for Thai text overlays (added later with the brand font) and do not render readable text, currency symbols, banknotes or profit charts.",
+        "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+        "shot_list": [
+          {
+            "time": "0-3",
+            "shot": "01-hook",
+            "detail": "ฮุกให้หยุดดู",
+            "content": "คอนเทนต์ไม่ดีไม่ใช่ปัญหาใหญ่ แต่ 3 วิแรกนี่แหละคือปัญหา"
+          },
+          {
+            "time": "3-20",
+            "shot": "02-teach-1",
+            "detail": "ให้ความรู้ตามประเด็น",
+            "content": "เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป | ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย"
+          },
+          {
+            "time": "20-35",
+            "shot": "03-teach-2",
+            "detail": "ขยายประเด็นที่เหลือ",
+            "content": "เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด"
+          },
+          {
+            "time": "35-45",
+            "shot": "04-demo",
+            "detail": "สาธิตการใช้สินค้า",
+            "content": "เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเทนต์ 30 วัน แล้วชี้ช่องที่ต้องกรอก · เปิดสคริปต์ตอบแชท 12 สถานการณ์ 1 หน้า · เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ"
+          },
+          {
+            "time": "45-52",
+            "shot": "05-proof",
+            "detail": "หลักฐานหรือตัวเลขจริง",
+            "content": "คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า"
+          },
+          {
+            "time": "52-60",
+            "shot": "06-cart",
+            "detail": "ปักสินค้า/คอมเมนต์ + CTA",
+            "content": "กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้"
+          }
+        ],
+        "cart_pin": {
+          "mechanic": "ติดป้ายสินค้า (Product tag) ในโพสต์หรือรีลส์จาก Facebook Shop แล้วปักหมุดคอมเมนต์ลิงก์ Line OA",
+          "where": "ป้ายสินค้าบนโพสต์/มุมล่างของรีลส์ และคอมเมนต์ปักหมุดอันดับแรก",
+          "when": "ติดป้ายตั้งแต่ตอนโพสต์ และปักหมุดคอมเมนต์ทันทีหลังโพสต์",
+          "onscreen_text": "กดปุ่มสินค้า หรือคอมเมนต์คำว่า 30",
+          "voice_cta": "กดปุ่มสินค้าใต้โพสต์ หรือคอมเมนต์คำว่า 30 เดี๋ยวส่งรายละเอียดให้",
+          "requirements": [
+            "เพจมีสิทธิ์ใช้ Facebook Shop / Product tag",
+            "ลิงก์ปลายทางหรือข้อความปลายทางชี้ไปที่ Line OA @kopwang",
+            "ถ้าขายไฟล์ดิจิทัล ให้ใช้ลิสต์สินค้าที่ Meta อนุญาต หรือให้ลูกค้าทักแชท"
+          ],
+          "fallback": "ถ้าติดป้ายสินค้าไม่ได้: ปักหมุดคอมเมนต์ลิงก์ Line @kopwang และพูดว่า \"ทักไลน์ในคอมเมนต์ปักหมุด\""
+        }
+      },
+      "shot_list": [
+        {
+          "time": "0-3",
+          "id": "01-hook",
+          "label": "ฮุกให้หยุดดู",
+          "content": "คอนเทนต์ไม่ดีไม่ใช่ปัญหาใหญ่ แต่ 3 วิแรกนี่แหละคือปัญหา"
+        },
+        {
+          "time": "3-20",
+          "id": "02-teach-1",
+          "label": "ให้ความรู้ตามประเด็น",
+          "content": "เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป | ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย"
+        },
+        {
+          "time": "20-35",
+          "id": "03-teach-2",
+          "label": "ขยายประเด็นที่เหลือ",
+          "content": "เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด"
+        },
+        {
+          "time": "35-45",
+          "id": "04-demo",
+          "label": "สาธิตการใช้สินค้า",
+          "content": "เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเทนต์ 30 วัน แล้วชี้ช่องที่ต้องกรอก · เปิดสคริปต์ตอบแชท 12 สถานการณ์ 1 หน้า · เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ"
+        },
+        {
+          "time": "45-52",
+          "id": "05-proof",
+          "label": "หลักฐานหรือตัวเลขจริง",
+          "content": "คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า"
+        },
+        {
+          "time": "52-60",
+          "id": "06-cart",
+          "label": "ปักสินค้า/คอมเมนต์ + CTA",
+          "content": "กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้"
+        }
+      ]
+    },
+    "tiktok": {
+      "label": "TikTok",
+      "plan_title": "\"3 วิแรก ผมเปลี่ยนจาก 300 วิว เป็นหลักพัน\"",
+      "format": "Talking Head",
+      "post_time": "19:30",
+      "caption": "คอนเทนต์ไม่ดีไม่ใช่ปัญหาใหญ่ แต่ 3 วิแรกนี่แหละคือปัญหา\n\nเริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป\n\nกดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้\n\n#Kopwang #ระบบสร้างรายได้ใน30วัน #รายได้เสริม #ทำเงินออนไลน์ #คอนเทนต์ขายของ #ทำคลิปสั้น #DAY8",
+      "script_prompt": "บทบาท: คุณเป็นนักเขียนสคริปต์คลิปสั้นภาษาไทยให้แบรนด์ Kopwang\nสินค้า: E-Book Kopwang : ระบบสร้างรายได้ใน 30 วัน ราคา 390 บาท (ปกติ 890 บาท)\nกลุ่มเป้าหมาย: มนุษย์เงินเดือน ฟรีแลนซ์ แม่บ้าน พ่อค้าออนไลน์มือใหม่ อายุ 25-45\nโทนเสียง: พูดตรง ไม่โอ้อวด · เปิดตัวเลขจริงของตัวเองเสมอ · สอนก่อน ขายทีหลัง (สัดส่วน 7:3) · ห้ามสัญญาผลลัพธ์เร็วเกินจริง\nแพลตฟอร์ม: TikTok · ความยาว 21-45 วินาที · อัตราส่วน 9:16\nภารกิจ: เขียนสคริปต์คลิปวันที่ 8 หัวข้อ \"3 วินาทีแรกตัดสินทุกอย่าง\"\nรูปแบบคลิปที่วางไว้: Talking Head\n\nข้อมูลที่ต้องใช้ (ห้ามคิดข้อเท็จจริงใหม่หรืออ้างตัวเลขที่ไม่มีในนี้):\n- ฮุก: คอนเทนต์ไม่ดีไม่ใช่ปัญหาใหญ่ แต่ 3 วิแรกนี่แหละคือปัญหา\n- ประเด็น 1: เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป\n- ประเด็น 2: ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย\n- ประเด็น 3: เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด\n- หลักฐาน/ความน่าเชื่อถือ: คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า\n- CTA: กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้\n\nบีตที่ผู้เขียนแผนให้มา (ต้องพูดให้ครบหรือเทียบเท่า):\n- 0-3s: พูด hook ตัวอย่าง 2 แบบ ต่อกันให้เห็นความต่าง\n- 3-12s: สูตร hook: ปัญหา + กลุ่มคน + ผลลัพธ์\n- 12-22s: 5 แบบที่ใช้บ่อย พร้อมอ่านให้ฟังเร็ว ๆ\n- 22-28s: ข้อผิดพลาดที่พบบ่อย\n- 28-30s: CTA กดเซฟ\n\nโครงเรื่องที่ต้องมีครบทุกช่วง (ปรับถ้อยคำได้ ห้ามตัดช่วงทิ้ง):\n- 0-3s | ฮุก 3 วินาทีแรก: \"3 วิแรก ผมเปลี่ยนจาก 300 วิว เป็นหลักพัน\"\n- 3-10s | ประเด็นหลักข้อ 1: เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป\n- 10-18s | ประเด็นหลักข้อ 2-3: ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย | เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด\n- 18-28s | สาธิตการใช้สินค้า: เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเทนต์ 30 วัน แล้วชี้ช่องที่ต้องกรอก · เปิดสคริปต์ตอบแชท 12 สถานการณ์ 1 หน้า · เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ\n- 28-36s | หลักฐานและความน่าเชื่อถือ: คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า\n- 36-45s | ปักตะกร้า + CTA: กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้\n\nช่วงสาธิตสินค้า: ให้เห็น เปิดสารบัญให้เห็นครบทุกบท ขึ้นไปถึง เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ · วิธีถ่าย: อัดหน้าจอ (screen record) ด้วยมือถือหรือคอมพิวเตอร์ หรือถ่ายมือถือถือไฟล์จริง/สมุดงานพิมพ์\nช่วงปักตะกร้า/ลิงก์สินค้า: แนบสินค้า TikTok Shop (Product link) ให้ติดกับคลิป\n  ข้อความบนจอ: กดตะกร้าเหลือง ดูรายละเอียด · คำพูด: กดตะกร้าเหลืองตรงมุมล่างซ้ายได้เลย\n  ทางสำรอง: ถ้ายังปักตะกร้าไม่ได้: ปักหมุดคอมเมนต์ลิงก์ Line @kopwang แล้วพูดว่า \"ทักไลน์ในคอมเมนต์ปักหมุด\"\n\nข้อห้าม:\n- ห้ามใช้คำเหล่านี้ทุกกรณี: รวย, รวยเร็ว, การันตีรายได้, รับประกันรายได้, รายได้แน่นอน, รายได้ guaranteed, ผลลัพธ์ 100%\n- ห้ามในงานภาพ: ภาพธนบัตรหรือกองเงิน, เหรียญทองหรือทองคำแท่ง, กราฟกำไรที่อ้างผลตอบแทน, ยอดเงินในแอปธนาคารของผู้อื่น\n- ถ้าคลิปมีลิงก์สินค้า/ตะกร้า ให้บอกตรง ๆ ว่าเป็นลิงก์สินค้าของร้าน และไม่สัญญาผลลัพธ์จากการซื้อ\n- ข้อความรีวิวหรือภาพลูกค้าใช้ได้หลังขออนุญาตแล้วเท่านั้น และต้องปิดข้อมูลส่วนตัว\n\nข้อกำหนดผลลัพธ์:\n- ภาษาไทยทั้งหมด อ่านออกเสียงได้จริงในเวลาที่กำหนด\n- ข้อความบนจอสั้น ไม่เกิน 2 บรรทัด ใช้ฟอนต์ Noto Sans Thai\n- ความยาวแคปชันไม่เกิน 2200 ตัวอักษร และมีแฮชแท็กจากแคมเปญ\n- ตอบเป็น JSON เท่านั้น ตามโครงนี้:\n{\n  \"voice_over\": \"สคริปต์พูดทั้งคลิปเป็นภาษาไทย\",\n  \"onscreen_text\": [\n    {\"time\": \"0-3\", \"text\": \"ข้อความสั้นบนจอ ไม่เกิน 2 บรรทัด\"}\n  ],\n  \"shot_list\": [\n    {\"time\": \"0-3\", \"shot\": \"ชื่อช็อต\", \"detail\": \"สิ่งที่กล้องเห็น\"}\n  ],\n  \"caption\": \"แคปชันสำหรับโพสต์\",\n  \"hashtags\": [\"#Kopwang\"]\n}",
+      "image_prompts": [
+        {
+          "shot": "01-hook",
+          "purpose": "ฮุก 3 วินาทีแรก",
+          "aspect": "9:16",
+          "prompt": "9:16 photorealistic lifestyle image for a Thai online-business brand: Thai creator in their 30s sitting at a small desk at home, talking to a phone on a tripod, warm practical light, dark charcoal room. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "\"3 วิแรก ผมเปลี่ยนจาก 300 วิว เป็นหลักพัน\""
+        },
+        {
+          "shot": "02-teach-1",
+          "purpose": "ประเด็นหลักข้อ 1",
+          "aspect": "9:16",
+          "prompt": "9:16 photorealistic lifestyle image for a Thai online-business brand: top-down flat lay of an open notebook, pen and smartphone on a dark desk, clean checklist rows visible, generous empty space. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป"
+        },
+        {
+          "shot": "03-teach-2",
+          "purpose": "ประเด็นหลักข้อ 2-3",
+          "aspect": "9:16",
+          "prompt": "9:16 photorealistic lifestyle image for a Thai online-business brand: top-down flat lay of an open notebook, pen and smartphone on a dark desk, clean checklist rows visible, generous empty space. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย | เขียน hook 5 แบบ แล้วเลือกแบบที่ตั"
+        },
+        {
+          "shot": "04-demo",
+          "purpose": "สาธิตการใช้สินค้า",
+          "aspect": "9:16",
+          "prompt": "9:16 photorealistic lifestyle image for a Thai online-business brand: over-the-shoulder view of a laptop screen showing an e-book table of contents, a hand pointing at one section, warm screen glow on a dark desk. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเท"
+        },
+        {
+          "shot": "05-proof",
+          "purpose": "หลักฐานและความน่าเชื่อถือ",
+          "aspect": "9:16",
+          "prompt": "9:16 photorealistic lifestyle image for a Thai online-business brand: smartphone standing on a dark desk showing a clean chat conversation bubble with all personal data blurred, amber accent light. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า"
+        }
+      ],
+      "video": {
+        "aspect": "9:16",
+        "seconds": "21-45",
+        "prompt": "Short-form 9:16 social video for a Thai online-business brand, about 21-45 seconds, 6 shots. Theme: 3 วินาทีแรกตัดสินทุกอย่าง.\nShot list:\n  1. 0-3s — Thai creator in their 30s sitting at a small desk at home, talking to a phone on a tripod, warm practical light, dark charcoal room.\n  2. 3-10s — top-down flat lay of an open notebook, pen and smartphone on a dark desk, clean checklist rows visible, generous empty space.\n  3. 10-18s — top-down flat lay of an open notebook, pen and smartphone on a dark desk, clean checklist rows visible, generous empty space.\n  4. 18-28s — over-the-shoulder view of a laptop screen showing an e-book table of contents, a hand pointing at one section, warm screen glow on a dark desk.\n  5. 28-36s — smartphone standing on a dark desk showing a clean chat conversation bubble with all personal data blurred, amber accent light.\n  6. 36-45s — smartphone standing on a dark desk showing an online shop product page with a glowing shopping cart icon, amber accent light, clean negative space.\nProduct demo: show E-Book Kopwang : ระบบสร้างรายได้ใน 30 วัน on screen (อัดหน้าจอ (screen record) ด้วยมือถือหรือคอมพิวเตอร์ หรือถ่ายมือถือถือไฟล์จริง/สมุดงานพิมพ์).\nCart pin: แนบสินค้า TikTok Shop (Product link) ให้ติดกับคลิป — appears ให้ตะกร้าปรากฏตั้งแต่ช่วงสาธิตสินค้า (ประมาณวินาทีที่ 8-12) และคงอยู่จนจบคลิป; on-screen cue 'กดตะกร้าเหลือง ดูรายละเอียด' is added in editing, not rendered by the model.\nCamera: handheld phone with a subtle push-in on the demo shot and quick cuts on the beat. Lighting: warm practical light, dark charcoal background, amber accent. Audio: clear Thai voice-over, subtle neutral background bed, no copyrighted music.\nLeave clean space for Thai text overlays (added later with the brand font) and do not render readable text, currency symbols, banknotes or profit charts.",
+        "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+        "shot_list": [
+          {
+            "time": "0-3",
+            "shot": "01-hook",
+            "detail": "ฮุก 3 วินาทีแรก",
+            "content": "\"3 วิแรก ผมเปลี่ยนจาก 300 วิว เป็นหลักพัน\""
+          },
+          {
+            "time": "3-10",
+            "shot": "02-teach-1",
+            "detail": "ประเด็นหลักข้อ 1",
+            "content": "เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป"
+          },
+          {
+            "time": "10-18",
+            "shot": "03-teach-2",
+            "detail": "ประเด็นหลักข้อ 2-3",
+            "content": "ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย | เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด"
+          },
+          {
+            "time": "18-28",
+            "shot": "04-demo",
+            "detail": "สาธิตการใช้สินค้า",
+            "content": "เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเทนต์ 30 วัน แล้วชี้ช่องที่ต้องกรอก · เปิดสคริปต์ตอบแชท 12 สถานการณ์ 1 หน้า · เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ"
+          },
+          {
+            "time": "28-36",
+            "shot": "05-proof",
+            "detail": "หลักฐานและความน่าเชื่อถือ",
+            "content": "คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า"
+          },
+          {
+            "time": "36-45",
+            "shot": "06-cart",
+            "detail": "ปักตะกร้า + CTA",
+            "content": "กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้"
+          }
+        ],
+        "cart_pin": {
+          "mechanic": "แนบสินค้า TikTok Shop (Product link) ให้ติดกับคลิป",
+          "where": "ไอคอนตะกร้าเหลืองมุมล่างซ้ายของวิดีโอ",
+          "when": "ให้ตะกร้าปรากฏตั้งแต่ช่วงสาธิตสินค้า (ประมาณวินาทีที่ 8-12) และคงอยู่จนจบคลิป",
+          "onscreen_text": "กดตะกร้าเหลือง ดูรายละเอียด",
+          "voice_cta": "กดตะกร้าเหลืองตรงมุมล่างซ้ายได้เลย",
+          "requirements": [
+            "บัญชี TikTok Shop Seller ได้รับอนุมัติแล้ว",
+            "สินค้าอยู่ในสถานะเผยแพร่และพร้อมขาย",
+            "ถ้าขายไฟล์ดิจิทัล ต้องตรวจข้อกำหนด TikTok Shop ก่อนตั้งลิสต์"
+          ],
+          "fallback": "ถ้ายังปักตะกร้าไม่ได้: ปักหมุดคอมเมนต์ลิงก์ Line @kopwang แล้วพูดว่า \"ทักไลน์ในคอมเมนต์ปักหมุด\""
+        }
+      },
+      "shot_list": [
+        {
+          "time": "0-3",
+          "id": "01-hook",
+          "label": "ฮุก 3 วินาทีแรก",
+          "content": "\"3 วิแรก ผมเปลี่ยนจาก 300 วิว เป็นหลักพัน\""
+        },
+        {
+          "time": "3-10",
+          "id": "02-teach-1",
+          "label": "ประเด็นหลักข้อ 1",
+          "content": "เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป"
+        },
+        {
+          "time": "10-18",
+          "id": "03-teach-2",
+          "label": "ประเด็นหลักข้อ 2-3",
+          "content": "ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย | เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด"
+        },
+        {
+          "time": "18-28",
+          "id": "04-demo",
+          "label": "สาธิตการใช้สินค้า",
+          "content": "เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเทนต์ 30 วัน แล้วชี้ช่องที่ต้องกรอก · เปิดสคริปต์ตอบแชท 12 สถานการณ์ 1 หน้า · เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ"
+        },
+        {
+          "time": "28-36",
+          "id": "05-proof",
+          "label": "หลักฐานและความน่าเชื่อถือ",
+          "content": "คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า"
+        },
+        {
+          "time": "36-45",
+          "id": "06-cart",
+          "label": "ปักตะกร้า + CTA",
+          "content": "กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้"
+        }
+      ]
+    },
+    "shopee": {
+      "label": "Shopee Shop / Shopee Video",
+      "plan_title": "ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น",
+      "format": "shop action",
+      "post_time": "09:30",
+      "caption": "",
+      "script_prompt": "บทบาท: คุณเป็นนักเขียนสคริปต์คลิปสั้นภาษาไทยให้แบรนด์ Kopwang\nสินค้า: E-Book Kopwang : ระบบสร้างรายได้ใน 30 วัน ราคา 390 บาท (ปกติ 890 บาท)\nกลุ่มเป้าหมาย: มนุษย์เงินเดือน ฟรีแลนซ์ แม่บ้าน พ่อค้าออนไลน์มือใหม่ อายุ 25-45\nโทนเสียง: พูดตรง ไม่โอ้อวด · เปิดตัวเลขจริงของตัวเองเสมอ · สอนก่อน ขายทีหลัง (สัดส่วน 7:3) · ห้ามสัญญาผลลัพธ์เร็วเกินจริง\nแพลตฟอร์ม: Shopee Shop / Shopee Video · ความยาว 15-40 วินาที · อัตราส่วน 1:1, 9:16\nภารกิจ: เขียนสคริปต์คลิปวันที่ 8 หัวข้อ \"3 วินาทีแรกตัดสินทุกอย่าง\"\nรูปแบบคลิปที่วางไว้: shop action\n\nข้อมูลที่ต้องใช้ (ห้ามคิดข้อเท็จจริงใหม่หรืออ้างตัวเลขที่ไม่มีในนี้):\n- ฮุก: คอนเทนต์ไม่ดีไม่ใช่ปัญหาใหญ่ แต่ 3 วิแรกนี่แหละคือปัญหา\n- ประเด็น 1: เริ่มด้วยประโยคที่คนดูรู้สึกว่าพูดกับเขา ไม่ใช่ทักทายทั่วไป\n- ประเด็น 2: ห้ามเกริ่นยาว เลื่อนไปเรื่องที่คนอยากรู้เลย\n- ประเด็น 3: เขียน hook 5 แบบ แล้วเลือกแบบที่ตัวเองพูดเป็นธรรมชาติที่สุด\n- หลักฐาน/ความน่าเชื่อถือ: คลิปเดียวกันที่เปลี่ยนแค่ 3 วิแรก บางครั้งยอดคนดูต่างกันหลายเท่า\n- CTA: กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้\n\n- งานร้าน Shopee ของวันนี้: ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น\n\nโครงเรื่องที่ต้องมีครบทุกช่วง (ปรับถ้อยคำได้ ห้ามตัดช่วงทิ้ง):\n- 0-5s | อัปเดตหน้าร้าน: ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น\n- 5-15s | ภาพสินค้าที่ Shopee อนุมัติ: ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น\n- 15-28s | สาธิตสินค้า/ของจริงในมือ: เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเทนต์ 30 วัน แล้วชี้ช่องที่ต้องกรอก · เปิดสคริปต์ตอบแชท 12 สถานการณ์ 1 หน้า · เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ\n- 28-40s | ปักตะกร้า Shopee Video + CTA: กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้\n\nช่วงสาธิตสินค้า: ให้เห็น เปิดสารบัญให้เห็นครบทุกบท ขึ้นไปถึง เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ · วิธีถ่าย: อัดหน้าจอ (screen record) ด้วยมือถือหรือคอมพิวเตอร์ หรือถ่ายมือถือถือไฟล์จริง/สมุดงานพิมพ์\nช่วงปักตะกร้า/ลิงก์สินค้า: แนบสินค้าใน Shopee Video หรือปักตะกร้าใน Shopee Live เฉพาะลิสต์ที่ Shopee อนุมัติแล้ว\n  ข้อความบนจอ: กดตะกร้าใน Shopee Video · คำพูด: กดตะกร้าใน Shopee Video ได้เลย หรือทักแชทร้านถ้ายังไม่เห็นสินค้า\n  ทางสำรอง: ถ้ายังไม่มีลิสต์ที่อนุมัติ: ใช้แชทร้านและโปรไฟล์ชี้ไปที่ Line @kopwang โดยไม่วางไฟล์ในลิสต์\n  ข้อกำหนดที่ต้องรู้: อ้างอิง setup/03-shopee.md — Shopee ยังไม่ยืนยันว่าขายไฟล์อีบุ๊กได้ ต้องได้คำยืนยันเป็นลายลักษณ์อักษรก่อนตั้งลิสต์\n\nข้อห้าม:\n- ห้ามใช้คำเหล่านี้ทุกกรณี: รวย, รวยเร็ว, การันตีรายได้, รับประกันรายได้, รายได้แน่นอน, รายได้ guaranteed, ผลลัพธ์ 100%\n- ห้ามในงานภาพ: ภาพธนบัตรหรือกองเงิน, เหรียญทองหรือทองคำแท่ง, กราฟกำไรที่อ้างผลตอบแทน, ยอดเงินในแอปธนาคารของผู้อื่น\n- ถ้าคลิปมีลิงก์สินค้า/ตะกร้า ให้บอกตรง ๆ ว่าเป็นลิงก์สินค้าของร้าน และไม่สัญญาผลลัพธ์จากการซื้อ\n- ข้อความรีวิวหรือภาพลูกค้าใช้ได้หลังขออนุญาตแล้วเท่านั้น และต้องปิดข้อมูลส่วนตัว\n\nข้อกำหนดผลลัพธ์:\n- ภาษาไทยทั้งหมด อ่านออกเสียงได้จริงในเวลาที่กำหนด\n- ข้อความบนจอสั้น ไม่เกิน 2 บรรทัด ใช้ฟอนต์ Noto Sans Thai\n- ความยาวแคปชันไม่เกิน 1000 ตัวอักษร และมีแฮชแท็กจากแคมเปญ\n- ตอบเป็น JSON เท่านั้น ตามโครงนี้:\n{\n  \"voice_over\": \"สคริปต์พูดทั้งคลิปเป็นภาษาไทย\",\n  \"onscreen_text\": [\n    {\"time\": \"0-3\", \"text\": \"ข้อความสั้นบนจอ ไม่เกิน 2 บรรทัด\"}\n  ],\n  \"shot_list\": [\n    {\"time\": \"0-3\", \"shot\": \"ชื่อช็อต\", \"detail\": \"สิ่งที่กล้องเห็น\"}\n  ],\n  \"caption\": \"แคปชันสำหรับโพสต์\",\n  \"hashtags\": [\"#Kopwang\"]\n}",
+      "image_prompts": [
+        {
+          "shot": "01-shop",
+          "purpose": "อัปเดตหน้าร้าน",
+          "aspect": "1:1",
+          "prompt": "1:1 photorealistic lifestyle image for a Thai online-business brand: e-commerce pack shot of a printed workbook and a notebook on a cream surface, soft shadow, minimal props, product photography. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น"
+        },
+        {
+          "shot": "02-shop",
+          "purpose": "ภาพสินค้าที่ Shopee อนุมัติ",
+          "aspect": "1:1",
+          "prompt": "1:1 photorealistic lifestyle image for a Thai online-business brand: e-commerce pack shot of a printed workbook and a notebook on a cream surface, soft shadow, minimal props, product photography. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น"
+        },
+        {
+          "shot": "03-demo",
+          "purpose": "สาธิตสินค้า/ของจริงในมือ",
+          "aspect": "1:1",
+          "prompt": "1:1 photorealistic lifestyle image for a Thai online-business brand: over-the-shoulder view of a laptop screen showing an e-book table of contents, a hand pointing at one section, warm screen glow on a dark desk. Shot on 50mm lens, f/2.0, soft diffused window light, dark charcoal background (#14161C) with amber (#FFB020) accents and cream (#F5EFE2) surfaces, minimal props, mobile-first composition with clean empty space at the top for a Thai caption overlay, high detail, no text, no logos, no currency",
+          "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+          "th_overlay": "เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเท"
+        }
+      ],
+      "video": {
+        "aspect": "1:1",
+        "seconds": "15-40",
+        "prompt": "Short-form 1:1 social video for a Thai online-business brand, about 15-40 seconds, 4 shots. Theme: 3 วินาทีแรกตัดสินทุกอย่าง.\nShot list:\n  1. 0-5s — e-commerce pack shot of a printed workbook and a notebook on a cream surface, soft shadow, minimal props, product photography.\n  2. 5-15s — e-commerce pack shot of a printed workbook and a notebook on a cream surface, soft shadow, minimal props, product photography.\n  3. 15-28s — over-the-shoulder view of a laptop screen showing an e-book table of contents, a hand pointing at one section, warm screen glow on a dark desk.\n  4. 28-40s — smartphone standing on a dark desk showing an online shop product page with a glowing shopping cart icon, amber accent light, clean negative space.\nProduct demo: show E-Book Kopwang : ระบบสร้างรายได้ใน 30 วัน on screen (อัดหน้าจอ (screen record) ด้วยมือถือหรือคอมพิวเตอร์ หรือถ่ายมือถือถือไฟล์จริง/สมุดงานพิมพ์).\nCart pin: แนบสินค้าใน Shopee Video หรือปักตะกร้าใน Shopee Live เฉพาะลิสต์ที่ Shopee อนุมัติแล้ว — appears แนบตะกร้าตั้งแต่เปิดคลิป และพูดถึงอีกครั้งในช่วง 5 วินาทีสุดท้าย; on-screen cue 'กดตะกร้าใน Shopee Video' is added in editing, not rendered by the model.\nCamera: handheld phone with a subtle push-in on the demo shot and quick cuts on the beat. Lighting: warm practical light, dark charcoal background, amber accent. Audio: clear Thai voice-over, subtle neutral background bed, no copyrighted music.\nLeave clean space for Thai text overlays (added later with the brand font) and do not render readable text, currency symbols, banknotes or profit charts.",
+        "negative": "banknotes, coins, gold bars, profit charts, income guarantees, readable Thai text, unreadable gibberish text, watermark, logo, extra fingers, distorted hands, oversaturated colors, cluttered background",
+        "shot_list": [
+          {
+            "time": "0-5",
+            "shot": "01-shop",
+            "detail": "อัปเดตหน้าร้าน",
+            "content": "ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น"
+          },
+          {
+            "time": "5-15",
+            "shot": "02-shop",
+            "detail": "ภาพสินค้าที่ Shopee อนุมัติ",
+            "content": "ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น"
+          },
+          {
+            "time": "15-28",
+            "shot": "03-demo",
+            "detail": "สาธิตสินค้า/ของจริงในมือ",
+            "content": "เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเทนต์ 30 วัน แล้วชี้ช่องที่ต้องกรอก · เปิดสคริปต์ตอบแชท 12 สถานการณ์ 1 หน้า · เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ"
+          },
+          {
+            "time": "28-40",
+            "shot": "04-cart",
+            "detail": "ปักตะกร้า Shopee Video + CTA",
+            "content": "กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้"
+          }
+        ],
+        "cart_pin": {
+          "mechanic": "แนบสินค้าใน Shopee Video หรือปักตะกร้าใน Shopee Live เฉพาะลิสต์ที่ Shopee อนุมัติแล้ว",
+          "where": "ไอคอนตะกร้า/สินค้าใน Shopee Video และในไลฟ์",
+          "when": "แนบตะกร้าตั้งแต่เปิดคลิป และพูดถึงอีกครั้งในช่วง 5 วินาทีสุดท้าย",
+          "onscreen_text": "กดตะกร้าใน Shopee Video",
+          "voice_cta": "กดตะกร้าใน Shopee Video ได้เลย หรือทักแชทร้านถ้ายังไม่เห็นสินค้า",
+          "requirements": [
+            "มีลิสต์สินค้าที่ Shopee อนุมัติจริง ห้ามลงลิสต์เป็นไฟล์ PDF หรือลิงก์ดาวน์โหลด",
+            "ถ้าเป็นอีบุ๊ก ให้ใช้ลิสต์สินค้าจับต้องได้ที่เกี่ยวข้อง (เช่น สมุดงานพิมพ์) หรือให้ลูกค้าทักแชทร้านแทน"
+          ],
+          "fallback": "ถ้ายังไม่มีลิสต์ที่อนุมัติ: ใช้แชทร้านและโปรไฟล์ชี้ไปที่ Line @kopwang โดยไม่วางไฟล์ในลิสต์",
+          "policy_note": "อ้างอิง setup/03-shopee.md — Shopee ยังไม่ยืนยันว่าขายไฟล์อีบุ๊กได้ ต้องได้คำยืนยันเป็นลายลักษณ์อักษรก่อนตั้งลิสต์"
+        }
+      },
+      "shot_list": [
+        {
+          "time": "0-5",
+          "id": "01-shop",
+          "label": "อัปเดตหน้าร้าน",
+          "content": "ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น"
+        },
+        {
+          "time": "5-15",
+          "id": "02-shop",
+          "label": "ภาพสินค้าที่ Shopee อนุมัติ",
+          "content": "ปรับชื่อสินค้า 3 อันดับแรกให้มีคำที่ลูกค้าพิมพ์ค้น และขึ้นหน้าค้นหาได้ง่ายขึ้น"
+        },
+        {
+          "time": "15-28",
+          "id": "03-demo",
+          "label": "สาธิตสินค้า/ของจริงในมือ",
+          "content": "เปิดสารบัญให้เห็นครบทุกบท · พลิกหน้า 3-4 บทที่คนสนใจมากที่สุด · เปิดเทมเพลตคอนเทนต์ 30 วัน แล้วชี้ช่องที่ต้องกรอก · เปิดสคริปต์ตอบแชท 12 สถานการณ์ 1 หน้า · เปิดตารางติดตามผล 4 ตัวเลข แล้วกรอกตัวอย่าง 1 แถวให้เห็นภาพ"
+        },
+        {
+          "time": "28-40",
+          "id": "04-cart",
+          "label": "ปักตะกร้า Shopee Video + CTA",
+          "content": "กดเซฟ แล้วลองเขียน hook ของคุณ 5 แบบคืนนี้"
+        }
+      ]
+    }
+  }
+}

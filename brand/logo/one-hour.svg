@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Kopwang One Hour">
+  <rect width="1024" height="1024" rx="232" fill="#14161C"/>
+  <circle cx="512" cy="512" r="360" fill="none" stroke="#F5EFE2" stroke-width="96"/>
+  <path d="M512 512 L512 104 A408 408 0 0 1 716 159 Z" fill="#FFB020"/>
+  <circle cx="512" cy="512" r="312" fill="#14161C"/>
+  <path d="M512 512 V214" stroke="#F5EFE2" stroke-width="72" stroke-linecap="round"/>
+  <circle cx="512" cy="512" r="52" fill="#F5EFE2"/>
+  <circle cx="512" cy="214" r="36" fill="#F5EFE2"/>
+</svg>

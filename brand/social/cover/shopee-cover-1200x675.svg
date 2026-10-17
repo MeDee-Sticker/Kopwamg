@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Kopwang — Shopee Shop Cover 1200×675" xml:lang="th">
+  <title>Kopwang — Shopee Shop Cover 1200×675</title>
+  <desc>หน้าปกร้าน Shopee 16:9 ใช้คำพูดและสัญลักษณ์ชุดเดียวกับ Facebook Page</desc>
+  <style>
+    @font-face {
+      font-family: "Noto Sans Thai";
+      font-style: normal;
+      font-weight: 100 900;
+      src: url("../../fonts/NotoSansThai.ttf") format("truetype");
+    }
+  </style>
+  <rect id="background" width="1200" height="675" fill="#14161C"/>
+  <g id="headline">
+    <text id="eyebrow" x="96" y="132" font-family="Noto Sans Thai, sans-serif" font-size="13" font-weight="600" fill="#FFB020" text-anchor="start" letter-spacing="3">OFFICIAL SHOP</text>
+    <text id="wordmark" x="96" y="268" font-family="Noto Sans Thai, sans-serif" font-size="92" font-weight="700" fill="#F5EFE2" text-anchor="start">Kopwang</text>
+    <rect id="underline" x="96" y="300" width="76" height="7" rx="3.5" fill="#FFB020"/>
+    <text id="tagline" x="96" y="356" font-family="Noto Sans Thai, sans-serif" font-size="34" font-weight="600" fill="#F5EFE2" text-anchor="start">ระบบสร้างรายได้ใน 30 วัน</text>
+    <text id="cover-line" x="96" y="398" font-family="Noto Sans Thai, sans-serif" font-size="21" font-weight="400" fill="#B2AEA7" text-anchor="start">ระบบวันละ 1 ชม. ให้ได้ผลลัพธ์จริง</text>
+  </g>
+  <g id="bullets">
+    <rect x="96" y="455" width="7" height="7" rx="1" fill="#FFB020"/><text id="bullet-1" x="118" y="462" font-family="Noto Sans Thai, sans-serif" font-size="20" font-weight="400" fill="#D1CCC2" text-anchor="start">E-Book + เทมเพลต 30 วัน</text>
+    <rect x="96" y="499" width="7" height="7" rx="1" fill="#FFB020"/><text id="bullet-2" x="118" y="506" font-family="Noto Sans Thai, sans-serif" font-size="20" font-weight="400" fill="#D1CCC2" text-anchor="start">สคริปต์ตอบแชท 12 สถานการณ์</text>
+    <rect x="96" y="543" width="7" height="7" rx="1" fill="#FFB020"/><text id="bullet-3" x="118" y="550" font-family="Noto Sans Thai, sans-serif" font-size="20" font-weight="400" fill="#D1CCC2" text-anchor="start">คืนเงินภายใน 7 วัน</text>
+  </g>
+  <g id="day-ticks" stroke-width="3.2" stroke-linecap="butt">
+  <line x1="850" y1="113" x2="850" y2="81" stroke="#5C5B5B"/>
+  <line x1="896.572" y1="117.895" x2="903.225" y2="86.594" stroke="#5C5B5B"/>
+  <line x1="941.109" y1="132.366" x2="954.125" y2="103.132" stroke="#5C5B5B"/>
+  <line x1="981.664" y1="155.78" x2="1000.473" y2="129.892" stroke="#5C5B5B"/>
+  <line x1="1016.464" y1="187.115" x2="1040.245" y2="165.703" stroke="#5C5B5B"/>
+  <line x1="1043.99" y1="225" x2="1071.703" y2="209" stroke="#5C5B5B"/>
+  <line x1="1063.037" y1="267.78" x2="1093.47" y2="257.892" stroke="#5C5B5B"/>
+  <line x1="1072.773" y1="313.586" x2="1104.598" y2="310.241" stroke="#5C5B5B"/>
+  <line x1="1072.773" y1="360.414" x2="1104.598" y2="363.759" stroke="#5C5B5B"/>
+  <line x1="1063.037" y1="406.22" x2="1093.47" y2="416.108" stroke="#5C5B5B"/>
+  <line x1="1043.99" y1="449" x2="1071.703" y2="465" stroke="#5C5B5B"/>
+  <line x1="1016.464" y1="486.885" x2="1040.245" y2="508.297" stroke="#5C5B5B"/>
+  <line x1="981.664" y1="518.22" x2="1000.473" y2="544.108" stroke="#5C5B5B"/>
+  <line x1="941.109" y1="541.634" x2="954.125" y2="570.868" stroke="#5C5B5B"/>
+  <line x1="896.572" y1="556.105" x2="903.225" y2="587.406" stroke="#5C5B5B"/>
+  <line x1="850" y1="561" x2="850" y2="593" stroke="#5C5B5B"/>
+  <line x1="803.428" y1="556.105" x2="796.775" y2="587.406" stroke="#5C5B5B"/>
+  <line x1="758.891" y1="541.634" x2="745.875" y2="570.868" stroke="#5C5B5B"/>
+  <line x1="718.336" y1="518.22" x2="699.527" y2="544.108" stroke="#5C5B5B"/>
+  <line x1="683.536" y1="486.885" x2="659.755" y2="508.297" stroke="#5C5B5B"/>
+  <line x1="656.01" y1="449" x2="628.297" y2="465" stroke="#5C5B5B"/>
+  <line x1="636.963" y1="406.22" x2="606.53" y2="416.108" stroke="#5C5B5B"/>
+  <line x1="627.227" y1="360.414" x2="595.402" y2="363.759" stroke="#5C5B5B"/>
+  <line x1="627.227" y1="313.586" x2="595.402" y2="310.241" stroke="#5C5B5B"/>
+  <line x1="636.963" y1="267.78" x2="606.53" y2="257.892" stroke="#5C5B5B"/>
+  <line x1="656.01" y1="225" x2="628.297" y2="209" stroke="#5C5B5B"/>
+  <line x1="683.536" y1="187.115" x2="659.755" y2="165.703" stroke="#5C5B5B"/>
+  <line x1="718.336" y1="155.78" x2="699.527" y2="129.892" stroke="#5C5B5B"/>
+  <line x1="758.891" y1="132.366" x2="745.875" y2="103.132" stroke="#5C5B5B"/>
+  <line x1="803.428" y1="117.895" x2="796.775" y2="86.594" stroke="#25C281"/>
+  </g>
+  <g id="k-mark" transform="translate(585.537 72.537) scale(0.516529)" fill="none" stroke="#FFB020" stroke-width="116" stroke-linecap="round" stroke-linejoin="round"><path d="M328 270V754M328 512L696 270M328 512L696 754"/></g>
+</svg>

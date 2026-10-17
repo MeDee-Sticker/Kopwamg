@@ -1,0 +1,19 @@
+# ความลับ — ห้ามคอมมิต
+.env
+.env.*
+!.env.example
+*.pem
+
+# สถานะการโพสต์และล็อก
+state/
+*.log
+
+# ชุดดาวน์โหลดที่สร้างใหม่ได้ (zip + ชิ้นส่วน base64) — ไม่คอมมิตให้ repo เบา
+# ถ้าโคลนจาก GitHub ใช้ Code → Download ZIP ของ repo หรือรัน scripts/build_download_bundle.py เอง
+downloads/
+/kopwang-all-files.zip
+
+# ไฟล์ชั่วคราวของระบบ
+.DS_Store
+__pycache__/
+*.pyc

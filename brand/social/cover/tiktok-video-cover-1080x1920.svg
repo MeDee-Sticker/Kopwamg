@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-label="Kopwang — TikTok video cover 1080×1920" xml:lang="th">
+  <title>Kopwang — TikTok video cover 1080×1920</title>
+  <desc>ภาพปกคลิปแนวตั้งสำหรับ TikTok เนื้อหาพ้น UI ด้านล่างและขอบซ้าย/ขวา</desc>
+  <style>
+    @font-face {
+      font-family: "Noto Sans Thai";
+      font-style: normal;
+      font-weight: 100 900;
+      src: url("../../fonts/NotoSansThai.ttf") format("truetype");
+    }
+  </style>
+  <rect id="background" width="1080" height="1920" fill="#14161C"/>
+    <text id="eyebrow" x="543" y="336" font-family="Noto Sans Thai, sans-serif" font-size="20" font-weight="600" fill="#FFB020" text-anchor="middle" letter-spacing="6">KOPWANG</text>
+  <g id="k-mark" transform="translate(222.645 302.645) scale(0.619835)" fill="none" stroke="#FFB020" stroke-width="116" stroke-linecap="round" stroke-linejoin="round"><path d="M328 270V754M328 512L696 270M328 512L696 754"/></g>
+  <g id="headline">
+    <text id="line-1" x="540" y="1060" font-family="Noto Sans Thai, sans-serif" font-size="108" font-weight="700" fill="#F5EFE2" text-anchor="middle">ระบบสร้างรายได้</text>
+    <text id="line-2" x="540" y="1188" font-family="Noto Sans Thai, sans-serif" font-size="108" font-weight="700" fill="#FFB020" text-anchor="middle">ใน 30 วัน</text>
+    <text id="subline" x="540" y="1274" font-family="Noto Sans Thai, sans-serif" font-size="26" font-weight="400" fill="#BAB7AF" text-anchor="middle">วันละ 1 คลิป พาไปทำระบบรายได้ 30 วัน</text>
+  </g>
+  <rect id="divider" x="410" y="1340" width="260" height="3" rx="1.5" fill="#585757"/>
+    <text id="footer" x="540" y="1398" font-family="Noto Sans Thai, sans-serif" font-size="22" font-weight="500" fill="#A09D97" text-anchor="middle">Kopwang · Line @kopwang</text>
+</svg>
